@@ -1,0 +1,4 @@
+Edit Json files and any other files to change the name of the project as that changes and with this kind of template the name would be static
+
+test@gmail.com
+1234567
